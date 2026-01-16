@@ -130,4 +130,5 @@ python start.py
 ## 📜 Author
 
 Sahil Ranakoti
+
 Built as a hands-on project to explore modern RAG systems and LLM application design.
